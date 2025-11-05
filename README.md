@@ -6,6 +6,10 @@ Ein **ViolentMonkey/Tampermonkey UserScript** das Download-Buttons für archivie
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-NexusMods-orange.svg)
 
+## 📸 Screenshot
+
+![NexusMods Archive Downloader in Action](screenshots/Screenshot%202025-11-05%20122256.png)
+
 ## 🎯 Features
 
 - ✅ **Automatische Download-Buttons** für archivierte Files
