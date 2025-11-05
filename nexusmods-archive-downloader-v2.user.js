@@ -6,8 +6,8 @@
 // @author       Zeus59
 // @match        https://www.nexusmods.com/*/*?*category=archived*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Zeus59/nexusmods-archive-downloader/main/nexusmods-archive-downloader-v2.user.js
-// @downloadURL  https://raw.githubusercontent.com/Zeus59/nexusmods-archive-downloader/main/nexusmods-archive-downloader-v2.user.js
+// @updateURL    https://github.com/Zeus59/nexusmods-archive-downloader/raw/refs/heads/main/nexusmods-archive-downloader-v2.user.js
+// @downloadURL  https://github.com/Zeus59/nexusmods-archive-downloader/raw/refs/heads/main/nexusmods-archive-downloader-v2.user.js
 // ==/UserScript==
 
 (function() {

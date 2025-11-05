@@ -23,7 +23,7 @@ Ein **ViolentMonkey/Tampermonkey UserScript** das Download-Buttons für archivie
 - **Tampermonkey**: [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/de/firefox/addon/tampermonkey/)
 
 ### Schritt 2: Script installieren
-**[📥 Script installieren - Klick hier!](https://raw.githubusercontent.com/Zeus59/nexusmods-archive-downloader/master/nexusmods-archive-downloader-v2.user.js)**
+**[📥 Script installieren - Klick hier!](https://github.com/Zeus59/nexusmods-archive-downloader/raw/refs/heads/main/nexusmods-archive-downloader-v2.user.js)**
 
 *Der Link führt direkt zur `.user.js` Datei. ViolentMonkey/Tampermonkey erkennt automatisch das UserScript und bietet die Installation an.*
 
